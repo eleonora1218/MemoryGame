@@ -5,16 +5,16 @@ let cardsFlipped = 0;
 let noClicking = false;
 
 const COLORS = [
-  pink,
-  magenta,
-  cyan,
-  fucia,
-  purple,
-  pink,
-  magenta,
-  cyan,
-  fucia,
-  purple
+  "hotpink",
+  "cyan",
+  "white",
+  "lightsalmon",
+  "orangered",
+  "hotpink",
+  "cyan",
+  "white",
+  "lightsalmon",
+  "orangered"
 ];
 
 function shuffle(array) {

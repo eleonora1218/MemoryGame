@@ -1,5 +1,5 @@
 #game div {
-	border: 5px solid white;
+	border: 5px solid rgb(193, 181, 190);
 	border-radius: 5px;
 	width: 17%;
 	height: 200px;
@@ -8,11 +8,11 @@
 }
 
 body {
-	background-color: black;
+	background-color: rgb(31, 26, 26);
 	margin-left: 35px;
 }
 
 h1 {
-	color: rgb(255, 255, 255);
+	color: rgb(193, 181, 190);
 	text-align: center;
 }
