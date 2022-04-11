@@ -7,12 +7,12 @@ let noClicking = false;
 const COLORS = [
   "red",
   "blue",
-  "greenblue",
+  "green",
   "purple",
   "orange",
   "red",
   "blue",
-  "greenblue",
+  "green",
   "purple",
   "orange"
 ];
