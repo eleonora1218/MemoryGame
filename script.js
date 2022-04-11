@@ -5,16 +5,16 @@ let cardsFlipped = 0;
 let noClicking = false;
 
 const COLORS = [
-  rgb(218, 60, 60),
-  rgb(85, 128, 145),
-  rgb(109, 145, 85),
-  rgb(174, 94, 32),
-  rgb(105, 70, 124),
-  rgb(218, 60, 60),
-  rgb(85, 128, 145),
-  rgb(109, 145, 85),
-  rgb(174, 94, 32),
-  rgb(105, 70, 124),
+  pink,
+  magenta,
+  cyan,
+  fucia,
+  purple,
+  pink,
+  magenta,
+  cyan,
+  fucia,
+  purple
 ];
 
 function shuffle(array) {
